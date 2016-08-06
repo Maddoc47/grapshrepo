@@ -4,3 +4,5 @@ H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphic
 H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.csprojResolveAssemblyReference.cache
 H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.exe
 H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.pdb
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.MyForm.resources
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.csproj.GenerateResource.Cache

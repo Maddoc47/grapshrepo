@@ -12,10 +12,10 @@ namespace DrawingGraphicsConsole01
     class Program
     {
         static void Main(string[] args)
-        {
-            Form frmSurface = new Form();
-            frmSurface.Text = "Can we draw on this?";
-            Application.Run(frmSurface);            
+        {         
+
+            Application.EnableVisualStyles();
+            Application.Run(new MyForm("Welcome to the Graphics Console!"));
         }
     }
 }
