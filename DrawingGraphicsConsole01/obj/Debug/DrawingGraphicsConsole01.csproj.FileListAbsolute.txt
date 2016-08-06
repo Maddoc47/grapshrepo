@@ -1,0 +1,6 @@
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\bin\Debug\DrawingGraphicsConsole01.exe.config
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\bin\Debug\DrawingGraphicsConsole01.exe
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\bin\Debug\DrawingGraphicsConsole01.pdb
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.csprojResolveAssemblyReference.cache
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.exe
+H:\Development\C#\Projects\CanvasDrawing\DrawingGraphicsConsole01\DrawingGraphicsConsole01\obj\Debug\DrawingGraphicsConsole01.pdb
